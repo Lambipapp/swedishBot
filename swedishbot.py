@@ -49,7 +49,7 @@ def run(rInstance, prevComments, prevPosts, commentTexts):
    
 
     print("search done")
-    time.sleep(10)
+    time.sleep(60)
     
 
 def getPrevComments():
